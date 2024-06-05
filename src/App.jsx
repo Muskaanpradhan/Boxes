@@ -17,6 +17,7 @@ function App() {
   return(
     <>
   <div id="wrapper">
+    <h1>Content Hide-Box</h1>
   <div id="boxes">
     <div className="box">
       <h2 onClick={()=> setOpen(!open)}>Box 1 {open ? <FontAwesomeIcon icon={faChevronDown} /> : ">"}  </h2>
