@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Montserrat, sans-serif;
+}
+#boxes {
+  width: 80%;
+  display: flex;
+  gap: 2rem;
+  margin: 3rem auto;
+}
+.box {
+  width: 100%;
+  text-align: center;
+  border: 1px solid;
+  border-radius: 1rem;
+  padding: 1rem;
+}
+.box img {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+.hide {
+  display: none;
+}
+.ht{
+  height: 50px;
+  margin: auto;
+}
+
+/* h2{
+  color: white;
+} */
