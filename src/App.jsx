@@ -27,7 +27,7 @@ function App() {
        <div className="content">
         <img src="https://placehold.co/300x200" alt="" />
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
           Consectetur sequi, voluptatum dicta amet aliquid voluptatem eum
           fuga accusantium ad illum magni aut dolore, incidunt perspiciatis
           animi architecto ex, dolorum perferendis.
